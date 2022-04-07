@@ -9,6 +9,7 @@
 
 # rspec failure tracking
 .rspec_status
+node_modules
 
 # Gem specific
 .raspi-hostname
